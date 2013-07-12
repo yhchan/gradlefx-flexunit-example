@@ -2,16 +2,12 @@
 
 ---
 
-## Modify from [https://github.com/GradleFx/GradleFx-Examples](https://github.com/GradleFx/GradleFx-Examples)
-
----
+Modify from [https://github.com/GradleFx/GradleFx-Examples](https://github.com/GradleFx/GradleFx-Examples)
 
 ## Installation (Use homebrew)
 
         brew install gradle
         brew install flex_sdk
-
----
 
 ## Instruction
 - Make sure environment variable FLASH\_PLAYER\_EXE is set
