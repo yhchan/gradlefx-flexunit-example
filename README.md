@@ -1,13 +1,11 @@
-# GradleFX flexunit example for SWF project
-
----
+# gradlefx-flexunit-example
 
 Modify from [https://github.com/GradleFx/GradleFx-Examples](https://github.com/GradleFx/GradleFx-Examples)
 
 ## Installation (Use homebrew)
 
-        brew install gradle
-        brew install flex_sdk
+    brew install gradle
+    brew install flex_sdk
 
 ## Instruction
 - Make sure environment variable FLASH\_PLAYER\_EXE is set
